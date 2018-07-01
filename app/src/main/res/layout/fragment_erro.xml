@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/error"
+        android:paddingTop="126dp"
+        android:paddingBottom="20dp"
+        android:contentDescription="@string/app_name"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/proxima_nova_semibold"
+        android:textSize="18sp"
+        android:text="@string/msg_erro_turbulencia" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/proxima_nova_light"
+        android:textSize="16sp"
+        android:text="@string/msg_erro_interne" />
+
+    <Button
+        android:id="@+id/btnTentarNovamente"
+        android:paddingTop="45dp"
+        android:padding="21dp"
+        android:text="@string/msg_tentar_novo"
+        android:background="@color/white"
+        android:textColor="@color/rosa"
+        android:fontFamily="@font/proxima_nova_semibold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

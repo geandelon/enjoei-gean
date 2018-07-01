@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">enjoei - gean</string>
+
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">Infelizmente aconteceu deu ruim.\nJá notificamos os Nerds que fizeram o sistema.\nDesculpe-nos pela incoveniência.</string>
+    <string name="customactivityoncrash_error_activity_restart_app">Reiniciar o aplicativo</string>
+    <string name="customactivityoncrash_error_activity_close_app">Fechar o aplicativo</string>
+    <string name="customactivityoncrash_error_activity_error_details">Detalhes do Erro</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">Detalhes do Erro</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">Fechar</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">Copiar os dados</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">Detalhes do erro copiados</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">Informação do Erro</string>
+    <string name="msg_erro_interne">nosso cyber voo tá chacoalhando.\ndê uma checada na sua internet</string>
+    <string name="msg_erro_turbulencia">turbulências na rede</string>
+    <string name="msg_tentar_novo">tentar de novo</string>
+    <string name="nome_autor">Gean Delon - geandelon@gmail.com</string>
+
+
+</resources>
